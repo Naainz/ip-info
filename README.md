@@ -59,7 +59,3 @@ For some reason the gitignore is havin'g issues so I decided to keep the API key
 5. [Free IP Geo Location](https://ipgeolocation.io/) - provides a free IP gelocation API for software developers I am currently using. This is a temporary replacement
 
 
-
-## Acknowledgments
-
-A big thank you to anyone providing feedback on my [solution](https://www.frontendmentor.io/solutions/ip-address-tracker-02_5ChONI). It definitely helps to find new ways to code and find easier solutions! 
